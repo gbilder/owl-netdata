@@ -14,13 +14,13 @@ cd to `owl-driver` and
 
 copy resulting `cm160` to `/usr/local/lib`
 
-TODO: autostart driver on boot
+TODO: autostart driver on boot and keep running
 
 start driver 
 
 `/usr/local/bin/cm160`
 
-this will peridociay update the file `/tmp/eagle-owl-live.txt`
+this will periodically update the file `/tmp/eagle-owl-live.txt`
 
 ## Install the two netdata files and turn on in config
 
